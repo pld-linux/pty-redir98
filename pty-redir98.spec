@@ -6,6 +6,7 @@ Release:	1
 License:	GPL
 Group:		Applications/Terminal
 Source0:	ftp://ftp.pld.org.pl/software/pty-redir98/%{name}-%{version}.tar.gz
+# Source0-md5:	91c6d9069cbc4717d60c9c5a219cbe49
 URL:		ftp://ftp.pld.org.pl/software/pty-redir98/
 BuildRequires:	automake
 BuildRequires:	autoconf
