@@ -2,7 +2,7 @@ Summary:	Creates a pair of pseudo-terminals
 Summary(pl):	Tworzy parê pseudo-terminali
 Name:		pty-redir98
 Version:	1.0
-Release:	2
+Release:	3
 License:	GPL
 Group:		Applications/Terminal
 Source0:	ftp://ftp.pld.org.pl/software/pty-redir98/%{name}-%{version}.tar.gz
