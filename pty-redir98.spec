@@ -32,8 +32,8 @@ odpowiadaj±cym mu pseudo-terminalu podrzêdnym.
 %build
 rm -f missing
 aclocal
-automake -a -c -f
-autoconf
+%{__automake}
+%{__autoconf}
 %configure
 %{__make}
 
