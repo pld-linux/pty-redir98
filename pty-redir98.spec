@@ -1,5 +1,5 @@
-Summary:	creates a pair of pseudo-terminals
-Summary(pl):	tworzy parê pseudo-terminali
+Summary:	Creates a pair of pseudo-terminals
+Summary(pl):	Tworzy parê pseudo-terminali
 Name:		pty-redir98
 Version:	1.0
 Release:	1
