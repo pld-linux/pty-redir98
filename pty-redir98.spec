@@ -32,7 +32,7 @@ odpowiadaj±cym mu pseudo-terminalu podrzêdnym.
 %build
 rm -f missing
 aclocal
-automake -a -c
+automake -a -c -f
 autoconf
 %configure
 %{__make}
