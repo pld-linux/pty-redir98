@@ -5,8 +5,6 @@ Version:	1.0
 Release:	1
 License:	GPL
 Group:		Applications/Terminal
-Group(de):	Applikationen/Terminal
-Group(pl):	Aplikacje/Terminal
 Source0:	ftp://ftp.pld.org.pl/software/pty-redir98/%{name}-%{version}.tar.gz
 URL:		ftp://ftp.pld.org.pl/software/pty-redir98/
 BuildRequires:	automake
