@@ -1,5 +1,5 @@
 Summary:	Creates a pair of pseudo-terminals
-Summary(pl):	Tworzy parê pseudo-terminali
+Summary(pl.UTF-8):   Tworzy parÄ™ pseudo-terminali
 Name:		pty-redir98
 Version:	1.0
 Release:	3
@@ -19,13 +19,13 @@ use. For example it allows running PPP over SSH by attaching SSH
 input/output to a pseudo-tty master and running pppd on corresponding
 slave.
 
-%description -l pl
-pty-redir98 jest przeróbk± starego programu "pty-redir", u¿ywaj±c±
-pseudo-terminali zgodnie z semantyk± Unix98. Tworzy parê
-pseudo-terminali które dowolna aplikacja mo¿e wykorzystaæ. Na przyk³ad
-umo¿liwia uruchomienie PPP po SSH przez podczepienie wej¶cia/wyj¶cia
-SSH do nadrzêdnego pseudo-terminala i uruchomienie pppd na
-odpowiadaj±cym mu pseudo-terminalu podrzêdnym.
+%description -l pl.UTF-8
+pty-redir98 jest przerÃ³bkÄ… starego programu "pty-redir", uÅ¼ywajÄ…cÄ…
+pseudo-terminali zgodnie z semantykÄ… Unix98. Tworzy parÄ™
+pseudo-terminali ktÃ³re dowolna aplikacja moÅ¼e wykorzystaÄ‡. Na przykÅ‚ad
+umoÅ¼liwia uruchomienie PPP po SSH przez podczepienie wejÅ›cia/wyjÅ›cia
+SSH do nadrzÄ™dnego pseudo-terminala i uruchomienie pppd na
+odpowiadajÄ…cym mu pseudo-terminalu podrzÄ™dnym.
 
 %prep
 %setup -q
